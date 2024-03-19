@@ -550,3 +550,10 @@
     files is the Directory Manager password
     The ipa-server-install command was successful
     
+### Open Firefox enter url  https://identity-management.ocp4.example.com/ipa/ui/ 
+
+![alt text](images/image.png)
+
+Enter Credentials. 
+
+![alt text](images/dashboard.png)
